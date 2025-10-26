@@ -1,4 +1,1 @@
-
-skjfbslkfnalkfn alkf
-afkjlnalkjfn akj
-\kanflkae fl
+This project involves creating a food recipe website using only HTML. The goal is to design a simple, user-friendly webpage that displays various recipes, including ingredients, preparation steps, and images of finished dishes. Through this project, I will demonstrate my ability to structure web content effectively using semantic HTML elements, organize information in a clear and accessible format, and create a visually appealing layout without relying on external styling or scripting languages. By completing this project, I will have shown strong foundational skills in web development and a solid understanding of how to build and present content using HTML.
